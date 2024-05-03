@@ -1,12 +1,28 @@
 # Forest-Sound-Analysis-on-Edge
+A comparative study on deep-learning techniques that can also be deployed on resource-constrained edge devices. Analyzes the performance of seven Convolutional Neural Network models in the context of data augmentation, feature extraction, and model compression using acoustic data.
 
-> All python notebooks used in this study can be found in the scripts directory.
+### Published as:
+A Comparative Study of Preprocessing and Model Compression Techniques in Deep Learning for Forest Sound Classification
+### Please cite this work as:
+    @article{paranayapa2024comparative,
+       title={A Comparative Study of Preprocessing and Model Compression Techniques in Deep Learning for Forest Sound Classification},
+       author={Paranayapa, Thivindu and Ranasinghe, Piumini and Ranmal, Dakshina and Meedeniya, Dulani and Perera, Charith},
+       journal={Sensors},
+       volume={24},
+       number={4},
+       pages={1149},
+       year={2024},
+       publisher={MDPI},
+       doi={10.3390/s24041149}
+    }
+
+> All Python notebooks used in this study can be found in the scripts directory.
 
 ## Model Training
 
 1.  Download the FSC22 data from https://www.kaggle.com/datasets/dakshinaranmal/fsc22-v1
 
-     > Note : The dataset used in this study has one class removed due to ambiguity. To successfully run the notebooks it is necessary to get the updated version of FSC22 from the above mentioned url.
+     > Note: The dataset used in this study has one class removed due to ambiguity. To successfully run the notebooks it is necessary to get the updated version of FSC22 from the above mentioned url.
 
 2.  Extract the download FSC22 - v1 dataset zip (archive.zip) in the dataset folder in the project file structure. Once extracted successfully there will be a subfolder named fsc22 inside the dataset folder.
 
@@ -38,13 +54,13 @@
 
 9.  Run the **Feature Generator** notebook providing necessary command line inputs as required. (scripts/audio_processing/Feature Generator.ipynb)
    
-    Once completed pickle files following given data augmentation and feature extraction techniques will be created inside the dataset -\> fsc22 -\> Pickle Files directory.
+    Once completed pickle files following the given data augmentation and feature extraction techniques will be created inside the dataset -\> fsc22 -\> Pickle Files directory.
 
 8.  Run notebooks of the selected models which can be found at scripts/base_models. (Ex: **AlexNet, DenseNet121, EfficientNetV2B0, InceptionV3, MobileNetV3-Small, ResNet50V2**)
   
     In every model notebook, first hyper parameters will be tuned, followed by model training and the model will be saved in the given directory.
 
-       > Note : Provide a relative path inside the project directory to save the trained model.
+       > Note: Provide a relative path inside the project directory to save the trained model.
 
 ## Model Compression
 
@@ -64,7 +80,7 @@ Pruning can be done following three approaches.
 
 3.  Hybrid Pruning
 
-      Run the Filter Pruning notebook for an already weight pruned model obtained using Weight Pruning notebook.
+      Run the Filter Pruning notebook for an already weight pruned model obtained using the Weight Pruning notebook.
 
 ### Quantization
 
