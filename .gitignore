@@ -7,3 +7,32 @@ models/*
 
 env
 metrics
+
+# --- local environment / OS ---
+.venv/
+__pycache__/
+.DS_Store
+**/.ipynb_checkpoints/
+
+# --- large or regenerable data (keep locally; back up recordings separately) ---
+datasets/*
+!datasets/README.md
+live_recordings/
+test_clips/
+replay_playlists/*.wav
+replay_playlists/recordings/
+gateway_log.jsonl
+esp32_recording.wav
+experiments/v3/quant_probe/
+
+# --- deployable V3-f model and its float source are versioned ---
+!models/ESP32_Deployment_V3/
+models/ESP32_Deployment_V3/*
+!models/ESP32_Deployment_V3/MobileNetV3_Rainforest_V3f_INT8.tflite
+!models/ESP32_Deployment_V3/conversion_report_V3f.json
+!models/MobileNetV3_Small_Rainforest_V3b_F_s0/
+models/MobileNetV3_Small_Rainforest_V3b_F_s0/*
+!models/MobileNetV3_Small_Rainforest_V3b_F_s0/best.keras
+
+# --- firmware: model header (7.9 MB) is generated; copy it in before flashing ---
+firmware/**/rainforest_model.h
