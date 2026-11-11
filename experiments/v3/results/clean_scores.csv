@@ -1,0 +1,19 @@
+,0
+clean_cs recall,0.8666666666666667
+clean_gs recall,0.9333333333333333
+gain_cs recall,0.7333333333333333
+gain_gs recall,0.7666666666666667
+bg false-alarm,0.14814814814814814
+hardneg false-alarm,0.3466666666666667
+mix_cs -5dB recall,0.7333333333333333
+mix_gs -5dB recall,0.13333333333333333
+mix_cs +0dB recall,0.7666666666666667
+mix_gs +0dB recall,0.23333333333333334
+mix_cs +5dB recall,0.8
+mix_gs +5dB recall,0.18333333333333332
+mix_cs +10dB recall,0.7833333333333333
+mix_gs +10dB recall,0.36666666666666664
+mix_cs +15dB recall,0.8
+mix_gs +15dB recall,0.45
+_cs->gs (all cs rows),0.011594202898550725
+_gs->cs (all gs rows),0.1246376811594203

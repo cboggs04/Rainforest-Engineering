@@ -1,0 +1,369 @@
+ 125.0 Inference time: 995 ms
+ 125.0 
+ 125.0 CLASSIFICATION RESULTS
+ 125.0 ======================
+ 125.0 BACKGROUND: 92.97%
+ 125.0 CHAINSAW: 3.12%
+ 125.0 GUNSHOT: 3.91%
+ 125.0 
+ 125.0 DETECTED: BACKGROUND
+ 125.0 No LoRa test alert triggered
+ 125.0 
+ 125.0 Listening for 5 seconds...
+ 125.0 Captured 100000 samples in 4939 ms
+ 125.0 
+ 125.0 MICROPHONE STATUS
+ 125.0 RMS: 0.123821
+ 125.0 
+ 125.0 
+ 125.0 Longest zero run: 0 samples (0 runs >= 32)
+ 125.0 AUDIO SIGNAL DETECTED
+ 125.0 DC offset removed: -0.123943
+ 125.0 Sound level (AC RMS): 0.005049  peak: 0.025853
+ 125.0 Mel processing: 1146 ms
+ 125.0 Inference time: 995 ms
+ 125.0 
+ 125.0 CLASSIFICATION RESULTS
+ 125.0 ======================
+ 125.0 BACKGROUND: 99.61%
+ 125.0 CHAINSAW: 0.00%
+ 125.0 GUNSHOT: 0.00%
+ 125.0 
+ 125.0 DETECTED: BACKGROUND
+ 125.0 No LoRa test alert triggered
+ 125.0 
+ 125.0 Listening for 5 seconds...
+ 125.0 Captured 100000 samples in 4938 ms
+ 125.0 
+ 125.0 MICROPHONE STATUS
+ 125.0 RMS: 0.126700
+ 125.0 Peak: 0.262497
+ 125.0 Nonzero: 100000 / 100000
+ 125.0 Near-full-scale: 0
+ 125.0 Longest zero run: 0 samples (0 runs >= 32)
+ 125.0 AUDIO SIGNAL DETECTED
+ 125.0 DC offset removed: -0.124157
+ 125.0 Sound level (AC RMS): 0.025256  peak: 0.138340
+ 125.0 Mel processing: 1146 ms
+ 125.0 Inference time: 996 ms
+ 125.0 
+ 125.0 CLASSIFICATION RESULTS
+ 125.0 ======================
+ 125.0 BACKGROUND: 16.80%
+ 125.0 CHAINSAW: 83.20%
+ 125.0 GUNSHOT: 0.00%
+ 125.0 
+ 125.0 DETECTED: CHAINSAW
+ 125.0 
+ 125.0 LORA SENDING: TEST|NODE_01|CHAINSAW|83.2|1
+ 125.0 LORA: Transmission completed
+ 125.0 
+ 125.0 Listening for 5 seconds...
+ 125.0 Captured 100000 samples in 4934 ms
+ 125.0 
+ 125.0 MICROPHONE STATUS
+ 125.0 RMS: 0.125666
+ 125.0 Peak: 0.265305
+ 125.0 Nonzero: 100000 / 100000
+ 125.0 Near-full-scale: 0
+ 125.0 Longest zero run: 0 samples (0 runs >= 32)
+ 125.0 AUDIO SIGNAL DETECTED
+ 125.0 DC offset removed: -0.124201
+ 125.0 Sound level (AC RMS): 0.019129  peak: 0.141103
+ 125.0 Mel processing: 1146 ms
+ 125.0 Inference time: 996 ms
+ 125.0 
+ 125.0 CLASSIFICATION RESULTS
+ 125.0 ======================
+ 125.0 BACKGROUND: 0.39%
+ 125.0 CHAINSAW: 99.61%
+ 125.0 GUNSHOT: 0.00%
+ 125.0 
+ 125.0 DETECTED: CHAINSAW
+ 125.0 LoRa cooldown - not sent
+ 125.0 
+ 125.0 Listening for 5 seconds...
+ 125.0 Captured 100000 samples in 4937 ms
+ 125.0 
+ 125.0 MICROPHONE STATUS
+ 125.0 RMS: 0.123971
+ 125.0 Peak: 0.153961
+ 125.0 Nonzero: 100000 / 100000
+ 125.0 Near-full-scale: 0
+ 125.0 Longest zero run: 0 samples (0 runs >= 32)
+ 125.0 AUDIO SIGNAL DETECTED
+ 125.0 DC offset removed: -0.123889
+ 125.0 Sound level (AC RMS): 0.004510  peak: 0.030124
+ 125.0 Mel processing: 1146 ms
+ 125.0 Inference time: 994 ms
+ 125.0 
+ 125.0 CLASSIFICATION RESULTS
+ 125.0 ======================
+ 125.0 BACKGROUND: 95.70%
+ 125.0 CHAINSAW: 0.39%
+ 125.0 GUNSHOT: 3.91%
+ 125.0 
+ 125.0 DETECTED: BACKGROUND
+ 125.0 No LoRa test alert triggered
+ 125.0 
+ 125.0 Listening for 5 seconds...
+ 125.0 Captured 100000 samples in 4938 ms
+ 125.0 
+ 125.0 MICROPHONE STATUS
+ 125.0 RMS: 0.124133
+ 125.0 Peak: 0.171524
+ 125.0 Nonzero: 100000 / 100000
+ 125.0 Near-full-scale: 0
+ 125.0 Longest zero run: 0 samples (0 runs >= 32)
+ 125.0 AUDIO SIGNAL DETECTED
+ 125.0 DC offset removed: -0.123967
+ 125.0 Sound level (AC RMS): 0.006417  peak: 0.047557
+ 125.0 Mel processing: 1146 ms
+ 125.0 Inference time: 995 ms
+ 125.0 
+ 125.0 CLASSIFICATION RESULTS
+ 125.0 ======================
+ 125.0 BACKGROUND: 83.98%
+ 125.0 CHAINSAW: 6.25%
+ 125.0 GUNSHOT: 9.77%
+ 125.0 
+ 125.0 DETECTED: BACKGROUND
+ 125.0 No LoRa test alert triggered
+ 125.0 
+ 125.0 Listening for 5 seconds...
+ 125.0 Captured 100000 samples in 4938 ms
+ 125.0 
+ 125.0 MICROPHONE STATUS
+ 125.0 RMS: 0.124795
+ 125.0 Peak: 0.461411
+ 125.0 Nonzero: 100000 / 100000
+ 125.0 Near-full-scale: 0
+ 125.0 Longest zero run: 0 samples (0 runs >= 32)
+ 125.0 AUDIO SIGNAL DETECTED
+ 125.0 DC offset removed: -0.124036
+ 125.0 Sound level (AC RMS): 0.013740  peak: 0.337374
+ 125.0 Mel processing: 1146 ms
+ 125.0 Inference time: 995 ms
+ 125.0 
+ 125.0 CLASSIFICATION RESULTS
+ 125.0 ======================
+ 125.0 BACKGROUND: 80.08%
+ 125.0 CHAINSAW: 0.39%
+ 125.0 GUNSHOT: 19.53%
+ 125.0 
+ 125.0 DETECTED: BACKGROUND
+ 125.0 No LoRa test alert triggered
+ 125.0 
+ 125.0 Listening for 5 seconds...
+ 125.0 Captured 100000 samples in 4938 ms
+ 125.0 
+ 125.0 MICROPHONE STATUS
+ 125.0 RMS: 0.124349
+ 125.0 Peak: 0.552689
+ 125.0 Nonzero: 100000 / 100000
+ 125.0 Near-full-scale: 0
+ 125.0 Longest zero run: 0 samples (0 runs >= 32)
+ 125.0 AUDIO SIGNAL DETECTED
+ 125.0 DC offset removed: -0.123737
+ 125.0 Sound level (AC RMS): 0.012319  peak: 0.428952
+ 125.0 Mel processing: 1146 ms
+ 125.0 Inference time: 995 ms
+ 125.0 
+ 125.0 CLASSIFICATION RESULTS
+ 125.0 ======================
+ 125.0 BACKGROUND: 10.55%
+ 125.0 CHAINSAW: 0.00%
+ 125.0 GUNSHOT: 89.45%
+ 125.0 
+ 125.0 DETECTED: GUNSHOT
+ 125.0 
+ 125.0 LORA SENDING: TEST|NODE_01|GUNSHOT|89.5|2
+ 125.0 LORA: Transmission completed
+ 125.0 
+ 125.0 Listening for 5 seconds...
+ 125.0 Captured 100000 samples in 4934 ms
+ 125.0 
+ 125.0 MICROPHONE STATUS
+ 125.0 RMS: 0.123630
+ 125.0 Peak: 0.305603
+ 125.0 Nonzero: 98929 / 100000
+ 125.0 Near-full-scale: 0
+ 125.0 Longest zero run: 1071 samples (1 runs >= 32)
+ 125.0 CAPTURE DROPOUT DETECTED - skipping
+ 125.0 
+ 125.0 Listening for 5 seconds...
+ 125.0 Captured 100000 samples in 4935 ms
+ 125.0 
+ 125.0 MICROPHONE STATUS
+ 125.0 RMS: 0.124866
+ 125.0 Peak: 0.166962
+ 125.0 Nonzero: 100000 / 100000
+ 125.0 Near-full-scale: 0
+ 125.0 Longest zero run: 0 samples (0 runs >= 32)
+ 125.0 AUDIO SIGNAL DETECTED
+ 125.0 DC offset removed: -0.124728
+ 125.0 Sound level (AC RMS): 0.005865  peak: 0.065371
+ 125.0 Mel processing: 1146 ms
+ 125.0 Inference time: 995 ms
+ 125.0 
+ 125.0 CLASSIFICATION RESULTS
+ 125.0 ======================
+ 125.0 BACKGROUND: 79.69%
+ 125.0 CHAINSAW: 14.84%
+ 125.0 GUNSHOT: 5.47%
+ 125.0 
+ 125.0 DETECTED: BACKGROUND
+ 125.0 No LoRa test alert triggered
+ 125.0 
+ 125.0 Listening for 5 seconds...
+ 125.0 Captured 100000 samples in 4939 ms
+ 125.0 
+ 125.0 MICROPHONE STATUS
+ 125.0 RMS: 0.123876
+ 125.0 Peak: 0.153900
+ 125.0 Nonzero: 100000 / 100000
+ 125.0 Near-full-scale: 0
+ 125.0 Longest zero run: 0 samples (0 runs >= 32)
+ 125.0 AUDIO SIGNAL DETECTED
+ 125.0 DC offset removed: -0.123738
+ 125.0 Sound level (AC RMS): 0.005850  peak: 0.030163
+ 125.0 Mel processing: 1147 ms
+ 125.0 Inference time: 995 ms
+ 125.0 
+ 125.0 CLASSIFICATION RESULTS
+ 125.0 ======================
+ 125.0 BACKGROUND: 92.58%
+ 125.0 CHAINSAW: 7.42%
+ 125.0 GUNSHOT: 0.00%
+ 125.0 
+ 125.0 DETECTED: BACKGROUND
+ 125.0 No LoRa test alert triggered
+ 125.0 
+ 125.0 Listening for 5 seconds...
+ 125.0 Captured 100000 samples in 4938 ms
+ 125.0 
+ 125.0 MICROPHONE STATUS
+ 125.0 RMS: 0.124575
+ 125.0 Peak: 0.186249
+ 125.0 Nonzero: 100000 / 100000
+ 125.0 Near-full-scale: 0
+ 125.0 Longest zero run: 0 samples (0 runs >= 32)
+ 125.0 AUDIO SIGNAL DETECTED
+ 125.0 DC offset removed: -0.124315
+ 125.0 Sound level (AC RMS): 0.008046  peak: 0.065736
+ 125.0 Mel processing: 1147 ms
+ 125.0 Inference time: 995 ms
+ 125.0 
+ 125.0 CLASSIFICATION RESULTS
+ 125.0 ======================
+ 125.0 BACKGROUND: 48.05%
+ 125.0 CHAINSAW: 4.30%
+ 125.0 GUNSHOT: 48.05%
+ 125.0 
+ 125.0 DETECTED: BACKGROUND
+ 125.0 No LoRa test alert triggered
+ 125.0 
+ 125.0 Listening for 5 seconds...
+ 125.0 Captured 100000 samples in 4938 ms
+ 125.0 
+ 125.0 MICROPHONE STATUS
+ 125.0 RMS: 0.124750
+ 125.0 Peak: 1.000000
+ 125.0 Nonzero: 95300 / 100000
+ 125.0 Near-full-scale: 53
+ 125.0 Longest zero run: 1403 samples (20 runs >= 32)
+ 125.0 CAPTURE DROPOUT DETECTED - skipping
+ 125.0 
+ 125.0 Listening for 5 seconds...
+ 125.0 Captured 100000 samples in 4936 ms
+ 125.0 
+ 125.0 MICROPHONE STATUS
+ 125.0 RMS: 0.125913
+ 125.0 Peak: 0.269257
+ 125.0 Nonzero: 100000 / 100000
+ 125.0 Near-full-scale: 0
+ 125.0 Longest zero run: 0 samples (0 runs >= 32)
+ 125.0 AUDIO SIGNAL DETECTED
+ 125.0 DC offset removed: -0.124204
+ 125.0 Sound level (AC RMS): 0.020672  peak: 0.146040
+ 125.0 Mel processing: 1146 ms
+ 125.0 Inference time: 995 ms
+ 125.0 
+ 125.0 CLASSIFICATION RESULTS
+ 125.0 ======================
+ 125.0 BACKGROUND: 45.31%
+ 125.0 CHAINSAW: 41.41%
+ 125.0 GUNSHOT: 13.28%
+ 125.0 
+ 125.0 DETECTED: BACKGROUND
+ 125.0 No LoRa test alert triggered
+ 125.0 
+ 125.0 Listening for 5 seconds...
+ 125.0 Captured 100000 samples in 4937 ms
+ 125.0 
+ 125.0 MICROPHONE STATUS
+ 125.0 RMS: 0.115035
+ 125.0 Peak: 0.524658
+ 125.0 Nonzero: 93740 / 100000
+ 125.0 Near-full-scale: 0
+ 125.0 Longest zero run: 6260 samples (1 runs >= 32)
+ 125.0 CAPTURE DROPOUT DETECTED - skipping
+ 125.0 
+ 125.0 Listening for 5 seconds...
+ 125.0 Captured 100000 samples in 4936 ms
+ 125.0 
+ 125.0 MICROPHONE STATUS
+ 125.0 RMS: 0.116649
+ 125.0 Peak: 1.000000
+ 125.0 Nonzero: 93761 / 100000
+ 125.0 Near-full-scale: 6
+ 125.0 Longest zero run: 2432 samples (7 runs >= 32)
+ 125.0 CAPTURE DROPOUT DETECTED - skipping
+ 125.0 
+ 125.0 Listening for 5 seconds...
+ 125.0 Captured 100000 samples in 4936 ms
+ 125.0 
+ 125.0 MICROPHONE STATUS
+ 125.0 RMS: 0.128004
+ 125.0 Peak: 0.874878
+ 125.0 Nonzero: 100000 / 100000
+ 125.0 Near-full-scale: 0
+ 125.0 Longest zero run: 0 samples (0 runs >= 32)
+ 125.0 AUDIO SIGNAL DETECTED
+ 125.0 DC offset removed: -0.125734
+ 125.0 Sound level (AC RMS): 0.024001  peak: 1.000612
+ 125.0 Mel processing: 1146 ms
+ 125.0 Inference time: 995 ms
+ 125.0 
+ 125.0 CLASSIFICATION RESULTS
+ 125.0 ======================
+ 125.0 BACKGROUND: 97.66%
+ 125.0 CHAINSAW: 1.95%
+ 125.0 GUNSHOT: 0.00%
+ 125.0 
+ 125.0 DETECTED: BACKGROUND
+ 125.0 No LoRa test alert triggered
+ 125.0 
+ 125.0 Listening for 5 seconds...
+ 125.0 Captured 100000 samples in 4937 ms
+ 125.0 
+ 125.0 MICROPHONE STATUS
+ 125.0 RMS: 0.109265
+ 125.0 Peak: 0.750092
+ 125.0 Nonzero: 82904 / 100000
+ 125.0 Near-full-scale: 0
+ 125.0 Longest zero run: 9921 samples (5 runs >= 32)
+ 125.0 CAPTURE DROPOUT DETECTED - skipping
+ 125.0 
+ 125.0 Listening for 5 seconds...
+ 125.0 Captured 100000 samples in 4939 ms
+ 125.0 
+ 125.0 MICROPHONE STATUS
+ 125.0 RMS: 0.120291
+ 125.0 Peak: 1.000000
+ 125.0 Nonzero: 90884 / 100000
+ 125.0 Near-full-scale: 27
+ 125.0 Longest zero run: 1762 samples (38 runs >= 32)
+ 125.0 CAPTURE DROPOUT DETECTED - skipping
+ 125.0 
+ 125.0 Listening for 5 seconds...

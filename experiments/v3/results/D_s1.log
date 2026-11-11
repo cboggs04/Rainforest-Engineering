@@ -1,0 +1,10 @@
+train (6233, 128, 196, 3) [2877 1336 2020] replay-derived 600 114s
+   ep0 val_balacc 0.861 (best 0.861 @ep0) t=177s
+   ep1 val_balacc 0.859 (best 0.861 @ep0) t=216s
+   ep2 val_balacc 0.860 (best 0.861 @ep0) t=257s
+   ep3 val_balacc 0.860 (best 0.861 @ep0) t=296s
+   ep4 val_balacc 0.864 (best 0.864 @ep4) t=346s
+   ep5 val_balacc 0.863 (best 0.864 @ep4) t=394s
+   ep6 val_balacc 0.862 (best 0.864 @ep4) t=441s
+   ep7 val_balacc 0.858 (best 0.864 @ep4) t=483s
+DONE D 1 490s

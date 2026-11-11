@@ -1,0 +1,95 @@
+
+RAINFOREST ML + LORA DETECTOR
+============================
+PSRAM allocated
+MobileNetV3 initialized
+Initializing Wio-SX1262...
+SUCCESS: LoRa initialized!
+Microphone initialized
+System ready!
+
+Listening for 5 seconds...
+Captured 100000 samples in 5004 ms
+
+MICROPHONE STATUS
+RMS: 0.117797
+Peak: 0.878006
+Nonzero: 99993 / 100000
+Near-full-scale: 0
+Longest zero run: 7 samples (0 runs >= 32)
+AUDIO SIGNAL DETECTED
+DC offset removed: -0.110809
+Sound level (AC RMS): 0.039969  peak: 0.988815
+Mel processing: 1147 ms
+Inference time: 995 ms
+
+CLASSIFICATION RESULTS
+======================
+BACKGROUND: 99.61%
+CHAINSAW: 0.00%
+GUNSHOT: 0.39%
+
+DETECTED: BACKGROUND
+No LoRa test alert triggered
+
+Listening for 5 seconds...
+Captured 100000 samples in 4938 ms
+
+MICROPHONE STATUS
+RMS: 0.125676
+Peak: 0.216812
+Nonzero: 100000 / 100000
+Near-full-scale: 0
+Longest zero run: 0 samples (0 runs >= 32)
+AUDIO SIGNAL DETECTED
+DC offset removed: -0.125377
+Sound level (AC RMS): 0.008676  peak: 0.094889
+Mel processing: 1146 ms
+Inference time: 995 ms
+
+CLASSIFICATION RESULTS
+======================
+BACKGROUND: 99.22%
+CHAINSAW: 0.39%
+GUNSHOT: 0.00%
+
+DETECTED: BACKGROUND
+No LoRa test alert triggered
+
+Listening for 5 seconds...
+Captured 100000 samples in 4937 ms
+
+MICROPHONE STATUS
+RMS: 0.125469
+Peak: 0.209427
+Nonzero: 100000 / 100000
+Near-full-scale: 0
+Longest zero run: 0 samples (0 runs >= 32)
+AUDIO SIGNAL DETECTED
+DC offset removed: -0.125122
+Sound level (AC RMS): 0.009328  peak: 0.112274
+Mel processing: 1146 ms
+Inference time: 995 ms
+
+CLASSIFICATION RESULTS
+======================
+BACKGROUND: 95.31%
+CHAINSAW: 0.00%
+GUNSHOT: 4.69%
+
+DETECTED: BACKGROUND
+No LoRa test alert triggered
+
+Listening for 5 seconds...
+Captured 100000 samples in 4938 ms
+
+MICROPHONE STATUS
+RMS: 0.124705
+Peak: 0.186783
+Nonzero: 100000 / 100000
+Near-full-scale: 0
+Longest zero run: 0 samples (0 runs >= 32)
+AUDIO SIGNAL DETECTED
+DC offset removed: -0.124552
+Sound level (AC RMS): 0.006166  peak: 0.062230
+Mel processing: 1146 ms

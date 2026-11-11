@@ -1,0 +1,41 @@
+{
+ "B2_s0": {
+  "loud_bg": 0.81,
+  "loudbed_cs": 0.9285714285714286,
+  "loudbed_cs cs->gs": 0.011904761904761904,
+  "quiet_cs": 0.8035714285714286,
+  "quiet_cs cs->gs": 0.0,
+  "quiet_gs": 0.9012345679012346,
+  "quiet_neg": 0.9666666666666667,
+  "replayed_cs": 0.8571428571428571,
+  "replayed_cs cs->gs": 0.017857142857142856,
+  "replayed_gs": 0.8827160493827161,
+  "replayed_neg": 0.884
+ },
+ "B2_s1": {
+  "loud_bg": 0.89,
+  "loudbed_cs": 0.8928571428571429,
+  "loudbed_cs cs->gs": 0.011904761904761904,
+  "quiet_cs": 0.7678571428571429,
+  "quiet_cs cs->gs": 0.0,
+  "quiet_gs": 0.8765432098765432,
+  "quiet_neg": 0.96,
+  "replayed_cs": 0.875,
+  "replayed_cs cs->gs": 0.0,
+  "replayed_gs": 0.8024691358024691,
+  "replayed_neg": 0.904
+ },
+ "B2_s2": {
+  "loud_bg": 0.89,
+  "loudbed_cs": 0.8214285714285714,
+  "loudbed_cs cs->gs": 0.023809523809523808,
+  "quiet_cs": 0.8571428571428571,
+  "quiet_cs cs->gs": 0.0,
+  "quiet_gs": 0.6790123456790124,
+  "quiet_neg": 0.98,
+  "replayed_cs": 0.7321428571428571,
+  "replayed_cs cs->gs": 0.0,
+  "replayed_gs": 0.8888888888888888,
+  "replayed_neg": 0.932
+ }
+}

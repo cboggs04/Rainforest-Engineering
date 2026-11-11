@@ -1,0 +1,124 @@
+Captured 100000 samples in 4942 ms
+
+MICROPHONE STATUS
+RMS: 0.000000
+Peak: 0.000000
+Nonzero: 0 / 100000
+Near-full-scale: 0
+Longest zero run: 100000 samples (1 runs >= 32)
+NO AUDIO SIGNAL - skipping
+
+Listening for 5 seconds...
+Captured 100000 samples in 4942 ms
+
+MICROPHONE STATUS
+
+
+
+CLASSIFICATION RESULTS
+======================
+BACKGROUND: 97.66%
+CHAINSAW: 0.00%
+GUNSHOT: 1.95%
+
+DETECTED: BACKGROUND
+No LoRa test alert triggered
+
+Listening for 5 seconds...
+Captured 100000 samples in 4938 ms
+
+MICROPHONE STATUS
+RMS: 0.000000
+Peak: 0.000000
+Nonzero: 0 / 100000
+Near-full-scale: 0
+Longest zero run: 100000 samples (1 runs >= 32)
+NO AUDIO SIGNAL - skipping
+
+Listening for 5 seconds...
+Captured 100000 samples in 4942 ms
+
+MICROPHONE STATUS
+RMS: 0.000000
+Peak: 0.000000
+Nonzero: 8 / 100000
+Near-full-scale: 0
+Longest zero run: 70455 samples (6 runs >= 32)
+NO AUDIO SIGNAL - skipping
+
+Listening for 5 seconds...
+Captured 100000 samples in 4941 ms
+
+MICROPHONE STATUS
+RMS: 0.000000
+Peak: 0.000000
+Nonzero: 0 / 100000
+Near-full-scale: 0
+Longest zero run: 100000 samples (1 runs >= 32)
+NO AUDIO SIGNAL - skipping
+
+Listening for 5 seconds...
+Captured 100000 samples in 4942 ms
+
+MICROPHONE STATUS
+RMS: 0.071550
+Peak: 1.000000
+Nonzero: 52544 / 100000
+Near-full-scale: 4
+Longest zero run: 29540 samples (14 runs >= 32)
+CAPTURE DROPOUT DETECTED - skipping
+
+Listening for 5 seconds...
+Captured 100000 samples in 4938 ms
+
+MICROPHONE STATUS
+RMS: 0.106183
+Peak: 0.153885
+Nonzero: 100000 / 100000
+Near-full-scale: 0
+Longest zero run: 0 samples (0 runs >= 32)
+AUDIO SIGNAL DETECTED
+Mel processing: 1145 ms
+Inference time: 992 ms
+
+CLASSIFICATION RESULTS
+======================
+BACKGROUND: 99.61%
+CHAINSAW: 0.00%
+GUNSHOT: 0.00%
+
+DETECTED: BACKGROUND
+No LoRa test alert triggered
+
+Listening for 5 seconds...
+Captured 100000 samples in 4941 ms
+
+MICROPHONE STATUS
+RMS: 0.105994
+Peak: 0.145844
+Nonzero: 100000 / 100000
+Near-full-scale: 0
+Longest zero run: 0 samples (0 runs >= 32)
+AUDIO SIGNAL DETECTED
+Mel processing: 1145 ms
+Inference time: 992 ms
+
+CLASSIFICATION RESULTS
+======================
+BACKGROUND: 99.61%
+CHAINSAW: 0.00%
+GUNSHOT: 0.39%
+
+DETECTED: BACKGROUND
+No LoRa test alert triggered
+
+Listening for 5 seconds...
+Captured 100000 samples in 4940 ms
+
+MICROPHONE STATUS
+RMS: 0.105874
+Peak: 0.142731
+Nonzero: 100000 / 100000
+Near-full-scale: 0
+Longest zero run: 0 samples (0 runs >= 32)
+AUDIO SIGNAL DETECTED

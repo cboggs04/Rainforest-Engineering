@@ -1,0 +1,24 @@
+B2 0 train (5183, 128, 196, 3) [2477 1134 1572] {'mix': 2056, 'gain': 735, 'hn': 700, 'negmix': 700, 'bg': 667, 'clean': 325} val (1142, 128, 196, 3) [764 120 258] 78s
+/Users/charlieboggs/Forest-Sound-Analysis-on-Edge/.venv/lib/python3.11/site-packages/keras/src/applications/mobilenet_v3.py:454: UserWarning: `input_shape` is undefined or non-square, or `rows` is not 224. Weights for input shape (224, 224) will be loaded as the default.
+  return MobileNetV3(
+   ep0 val_balacc 0.832 (best 0.832 @ep0) t=142s
+   ep1 val_balacc 0.851 (best 0.851 @ep1) t=178s
+   ep2 val_balacc 0.858 (best 0.858 @ep2) t=215s
+   ep3 val_balacc 0.844 (best 0.858 @ep2) t=255s
+   ep4 val_balacc 0.839 (best 0.858 @ep2) t=290s
+   ep5 val_balacc 0.832 (best 0.858 @ep2) t=326s
+   ep6 val_balacc 0.824 (best 0.858 @ep2) t=360s
+   ep7 val_balacc 0.841 (best 0.858 @ep2) t=394s
+   ep8 val_balacc 0.842 (best 0.858 @ep2) t=429s
+   ep9 val_balacc 0.835 (best 0.858 @ep2) t=463s
+   ep10 val_balacc 0.864 (best 0.864 @ep10) t=498s
+   ep11 val_balacc 0.843 (best 0.864 @ep10) t=532s
+   ep12 val_balacc 0.843 (best 0.864 @ep10) t=566s
+   ep13 val_balacc 0.838 (best 0.864 @ep10) t=600s
+   ep14 val_balacc 0.842 (best 0.864 @ep10) t=633s
+   ep15 val_balacc 0.842 (best 0.864 @ep10) t=669s
+   ep16 val_balacc 0.840 (best 0.864 @ep10) t=704s
+   ep17 val_balacc 0.838 (best 0.864 @ep10) t=737s
+   ep18 val_balacc 0.837 (best 0.864 @ep10) t=771s
+Epoch 19: early stopping
+DONE B2_s0 778s

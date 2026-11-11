@@ -1,0 +1,142 @@
+{
+ "cfg": "F",
+ "seed": 2,
+ "best_epoch": 12,
+ "best_val_balacc": 0.7641594626405293,
+ "scores": {
+  "eval_v1": {
+   "agreement": 0.9447619047619048,
+   "mean_abs_dp": 0.027000844478607178,
+   "float": {
+    "clean_cs recall": 0.8,
+    "clean_gs recall": 0.8666666666666667,
+    "gain_cs recall": 0.6666666666666666,
+    "gain_gs recall": 0.9,
+    "bg false-alarm": 0.11851851851851852,
+    "hardneg false-alarm": 0.28444444444444444,
+    "mix_cs -5dB recall": 0.45,
+    "mix_gs -5dB recall": 0.55,
+    "mix_cs +0dB recall": 0.6333333333333333,
+    "mix_gs +0dB recall": 0.4666666666666667,
+    "mix_cs +5dB recall": 0.7666666666666667,
+    "mix_gs +5dB recall": 0.6666666666666666,
+    "mix_cs +10dB recall": 0.7,
+    "mix_gs +10dB recall": 0.8,
+    "mix_cs +15dB recall": 0.7666666666666667,
+    "mix_gs +15dB recall": 0.8,
+    "_cs->gs (all cs rows)": 0.06376811594202898,
+    "_gs->cs (all gs rows)": 0.02318840579710145
+   },
+   "int8": {
+    "clean_cs recall": 0.8,
+    "clean_gs recall": 0.8666666666666667,
+    "gain_cs recall": 0.6666666666666666,
+    "gain_gs recall": 0.9,
+    "bg false-alarm": 0.14074074074074075,
+    "hardneg false-alarm": 0.28888888888888886,
+    "mix_cs -5dB recall": 0.48333333333333334,
+    "mix_gs -5dB recall": 0.5,
+    "mix_cs +0dB recall": 0.65,
+    "mix_gs +0dB recall": 0.5,
+    "mix_cs +5dB recall": 0.7166666666666667,
+    "mix_gs +5dB recall": 0.6166666666666667,
+    "mix_cs +10dB recall": 0.7,
+    "mix_gs +10dB recall": 0.8,
+    "mix_cs +15dB recall": 0.75,
+    "mix_gs +15dB recall": 0.7833333333333333,
+    "_cs->gs (all cs rows)": 0.04927536231884058,
+    "_gs->cs (all gs rows)": 0.02318840579710145
+   }
+  },
+  "eval_ext": {
+   "agreement": 0.968583283935981,
+   "mean_abs_dp": 0.01865636371076107,
+   "float": {
+    "clean_cs recall": 0.9230769230769231,
+    "clean_gs recall": 1.0,
+    "gain_cs recall": 0.8076923076923077,
+    "gain_gs recall": 0.9924242424242424,
+    "bg false-alarm": 0.13761467889908258,
+    "hardneg false-alarm": 0.13793103448275862,
+    "mix_cs -5dB recall": 0.5769230769230769,
+    "mix_gs -5dB recall": 0.36363636363636365,
+    "mix_cs +0dB recall": 0.8461538461538461,
+    "mix_gs +0dB recall": 0.6136363636363636,
+    "mix_cs +5dB recall": 0.8461538461538461,
+    "mix_gs +5dB recall": 0.7272727272727273,
+    "mix_cs +10dB recall": 0.9615384615384616,
+    "mix_gs +10dB recall": 0.8333333333333334,
+    "mix_cs +15dB recall": 0.9230769230769231,
+    "mix_gs +15dB recall": 0.9090909090909091,
+    "_cs->gs (all cs rows)": 0.0,
+    "_gs->cs (all gs rows)": 0.018648018648018648
+   },
+   "int8": {
+    "clean_cs recall": 0.9230769230769231,
+    "clean_gs recall": 1.0,
+    "gain_cs recall": 0.8846153846153846,
+    "gain_gs recall": 0.9924242424242424,
+    "bg false-alarm": 0.14678899082568808,
+    "hardneg false-alarm": 0.13793103448275862,
+    "mix_cs -5dB recall": 0.5,
+    "mix_gs -5dB recall": 0.3409090909090909,
+    "mix_cs +0dB recall": 0.8461538461538461,
+    "mix_gs +0dB recall": 0.5984848484848485,
+    "mix_cs +5dB recall": 0.8076923076923077,
+    "mix_gs +5dB recall": 0.7196969696969697,
+    "mix_cs +10dB recall": 0.9230769230769231,
+    "mix_gs +10dB recall": 0.8257575757575758,
+    "mix_cs +15dB recall": 0.9615384615384616,
+    "mix_gs +15dB recall": 0.8863636363636364,
+    "_cs->gs (all cs rows)": 0.0,
+    "_gs->cs (all gs rows)": 0.018648018648018648
+   }
+  },
+  "eval_stress": {
+   "agreement": 0.9725490196078431,
+   "mean_abs_dp": 0.021370701491832733,
+   "float": {
+    "loud_bg": 0.88,
+    "loudbed_cs": 0.6071428571428571,
+    "loudbed_cs cs->gs": 0.03571428571428571,
+    "quiet_cs": 0.625,
+    "quiet_cs cs->gs": 0.0,
+    "quiet_gs": 0.9382716049382716,
+    "quiet_neg": 0.88,
+    "replayed_cs": 0.6785714285714286,
+    "replayed_cs cs->gs": 0.03571428571428571,
+    "replayed_gs": 0.9259259259259259,
+    "replayed_neg": 0.84
+   },
+   "int8": {
+    "loud_bg": 0.88,
+    "loudbed_cs": 0.6428571428571429,
+    "loudbed_cs cs->gs": 0.03571428571428571,
+    "quiet_cs": 0.6428571428571429,
+    "quiet_cs cs->gs": 0.0,
+    "quiet_gs": 0.9320987654320988,
+    "quiet_neg": 0.8933333333333333,
+    "replayed_cs": 0.6607142857142857,
+    "replayed_cs cs->gs": 0.03571428571428571,
+    "replayed_gs": 0.9197530864197531,
+    "replayed_neg": 0.852
+   }
+  },
+  "replay_test": {
+   "agreement": 1.0,
+   "mean_abs_dp": 0.012971428222954273,
+   "float": {
+    "gs": 0.95,
+    "cs": 0.8333333333333334,
+    "cs_to_gs": 0.0,
+    "neg_FA": 0.11538461538461539
+   },
+   "int8": {
+    "gs": 0.95,
+    "cs": 0.8333333333333334,
+    "cs_to_gs": 0.0,
+    "neg_FA": 0.11538461538461539
+   }
+  }
+ }
+}

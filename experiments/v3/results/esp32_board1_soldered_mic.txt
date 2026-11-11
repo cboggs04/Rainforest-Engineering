@@ -1,0 +1,84 @@
+Captured 100000 samples in 4941 ms
+
+MICROPHONE STATUS
+RMS: 0.000000
+Peak: 0.000000
+Nonzero: 0 / 100000
+Near-full-scale: 0
+Longest zero run: 100000 samples (1 runs >= 32)
+NO AUDIO SIGNAL - skipping
+
+Listening for 5 seconds...
+Captured 100000 samples in 4941 ms
+
+MICROPHONE STATUS
+NO AUDIO SIGNAL - skipping
+
+Listening for 5 seconds...
+Captured 100000 samples in 4944 ms
+
+MICROPHONE STATUS
+RMS: 0.000000
+Peak: 0.000000
+Nonzero: 0 / 100000
+Near-full-scale: 0
+Longest zero run: 100000 samples (1 runs >= 32)
+NO AUDIO SIGNAL - skipping
+
+Listening for 5 seconds...
+Captured 100000 samples in 4941 ms
+
+MICROPHONE STATUS
+RMS: 0.000000
+Peak: 0.000000
+Nonzero: 0 / 100000
+Near-full-scale: 0
+Longest zero run: 100000 samples (1 runs >= 32)
+NO AUDIO SIGNAL - skipping
+
+Listening for 5 seconds...
+@JSON {"type":"heartbeat","origin":40216,"msg":19021,"attempt":1,"class":"","confidence":0.000,"test":false,"hops":1,"via":40216,"rssi":-36.0,"snr":11.2,"origin_uptime_s":560,"gateway":39712,"local":false}
+Captured 100000 samples in 4941 ms
+
+MICROPHONE STATUS
+RMS: 0.000000
+Peak: 0.000000
+Nonzero: 0 / 100000
+Near-full-scale: 0
+Longest zero run: 100000 samples (1 runs >= 32)
+NO AUDIO SIGNAL - skipping
+
+Listening for 5 seconds...
+Captured 100000 samples in 4941 ms
+
+MICROPHONE STATUS
+RMS: 0.000000
+Peak: 0.000000
+Nonzero: 0 / 100000
+Near-full-scale: 0
+Longest zero run: 100000 samples (1 runs >= 32)
+NO AUDIO SIGNAL - skipping
+
+Listening for 5 seconds...
+Captured 100000 samples in 4941 ms
+
+MICROPHONE STATUS
+RMS: 0.000000
+Peak: 0.000000
+Nonzero: 0 / 100000
+Near-full-scale: 0
+Longest zero run: 100000 samples (1 runs >= 32)
+NO AUDIO SIGNAL - skipping
+
+Listening for 5 seconds...
+Captured 100000 samples in 4941 ms
+
+MICROPHONE STATUS
+RMS: 0.000000
+Peak: 0.000000
+Nonzero: 0 / 100000
+Near-full-scale: 0
+Longest zero run: 100000 samples (1 runs >= 32)
+NO AUDIO SIGNAL - skipping
+
+Listening for 5 seconds...

@@ -1,0 +1,90 @@
+
+MIC SLOT TEST (stereo read)
+I2S started. Reporting each slot once per second.
+[2s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+[5s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+[6s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+[7s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+[8s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+[9s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+[10s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+[11s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+[12s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+[13s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+[14s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+[15s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+[16s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+[17s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+[18s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+[19s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+[20s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+[21s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+[22s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+[23s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+[24s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+[25s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+[26s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+[27s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+[28s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+[29s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+[30s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+[32s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+[33s]
+  slot0 (first) : nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000
+  slot1 (second): nonzero     0/20000  mean(DC) +0.00000  AC-RMS 0.000000  peak 0.0000  raw 00000000 00000000 00000000

@@ -1,0 +1,122 @@
+Captured 100000 samples in 4941 ms
+
+MICROPHONE STATUS
+RMS: 0.000000
+Peak: 0.000000
+Nonzero: 0 / 100000
+Near-full-scale: 0
+Longest zero run: 100000 samples (1 runs >= 32)
+NO AUDIO SIGNAL - skipping
+
+Listening for 5 seconds...
+
+MICROPHONE STATUS
+
+
+
+
+
+BACKGROUND: 99.61%
+CHAINSAW: 0.00%
+GUNSHOT: 0.00%
+
+DETECTED: BACKGROUND
+No alert (below threshold)
+
+Listening for 5 seconds...
+Captured 100000 samples in 4939 ms
+
+MICROPHONE STATUS
+RMS: 0.105855
+Peak: 0.253479
+Nonzero: 100000 / 100000
+Near-full-scale: 0
+Longest zero run: 0 samples (0 runs >= 32)
+AUDIO SIGNAL DETECTED
+DC offset removed: -0.104953
+Sound level (AC RMS): 0.013789  peak: 0.180164
+Mel processing: 1150 ms
+Inference time: 996 ms
+
+CLASSIFICATION RESULTS
+======================
+BACKGROUND: 54.30%
+CHAINSAW: 4.30%
+GUNSHOT: 41.02%
+
+DETECTED: BACKGROUND
+No alert (below threshold)
+
+Listening for 5 seconds...
+Captured 100000 samples in 4935 ms
+
+MICROPHONE STATUS
+RMS: 0.105743
+Peak: 0.226517
+Nonzero: 100000 / 100000
+Near-full-scale: 0
+Longest zero run: 0 samples (0 runs >= 32)
+AUDIO SIGNAL DETECTED
+DC offset removed: -0.105014
+Sound level (AC RMS): 0.012393  peak: 0.133609
+Mel processing: 1149 ms
+Inference time: 996 ms
+
+CLASSIFICATION RESULTS
+======================
+BACKGROUND: 98.05%
+CHAINSAW: 1.95%
+GUNSHOT: 0.00%
+
+DETECTED: BACKGROUND
+No alert (below threshold)
+
+Listening for 5 seconds...
+Captured 100000 samples in 4933 ms
+
+MICROPHONE STATUS
+RMS: 0.110731
+Peak: 0.285904
+Nonzero: 99999 / 100000
+Near-full-scale: 0
+Longest zero run: 1 samples (0 runs >= 32)
+AUDIO SIGNAL DETECTED
+DC offset removed: -0.105031
+Sound level (AC RMS): 0.035068  peak: 0.208516
+Mel processing: 1149 ms
+Inference time: 996 ms
+
+CLASSIFICATION RESULTS
+======================
+BACKGROUND: 87.11%
+CHAINSAW: 12.11%
+GUNSHOT: 0.39%
+
+DETECTED: BACKGROUND
+No alert (below threshold)
+
+Listening for 5 seconds...
+Captured 100000 samples in 4933 ms
+
+MICROPHONE STATUS
+RMS: 0.111389
+Peak: 0.273331
+Nonzero: 99999 / 100000
+Near-full-scale: 0
+Longest zero run: 1 samples (0 runs >= 32)
+AUDIO SIGNAL DETECTED
+DC offset removed: -0.105022
+Sound level (AC RMS): 0.037121  peak: 0.168309
+Mel processing: 1150 ms
+Inference time: 997 ms
+
+CLASSIFICATION RESULTS
+======================
+BACKGROUND: 59.38%
+CHAINSAW: 40.62%
+GUNSHOT: 0.00%
+
+DETECTED: BACKGROUND
+No alert (below threshold)
+
+Listening for 5 seconds...

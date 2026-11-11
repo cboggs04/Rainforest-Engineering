@@ -1,0 +1,17 @@
+B1 2 train (5183, 128, 196, 3) [2477 1134 1572] {'mix': 2056, 'gain': 735, 'hn': 700, 'negmix': 700, 'bg': 667, 'clean': 325} val (1142, 128, 196, 3) [764 120 258] 64s
+   ep0 val_balacc 0.718 (best 0.718 @ep0) t=118s
+   ep1 val_balacc 0.698 (best 0.718 @ep0) t=152s
+   ep2 val_balacc 0.704 (best 0.718 @ep0) t=186s
+   ep3 val_balacc 0.728 (best 0.728 @ep3) t=220s
+   ep4 val_balacc 0.704 (best 0.728 @ep3) t=255s
+   ep5 val_balacc 0.749 (best 0.749 @ep5) t=291s
+   ep6 val_balacc 0.711 (best 0.749 @ep5) t=328s
+   ep7 val_balacc 0.712 (best 0.749 @ep5) t=368s
+   ep8 val_balacc 0.728 (best 0.749 @ep5) t=405s
+   ep9 val_balacc 0.699 (best 0.749 @ep5) t=442s
+   ep10 val_balacc 0.730 (best 0.749 @ep5) t=476s
+   ep11 val_balacc 0.720 (best 0.749 @ep5) t=509s
+   ep12 val_balacc 0.726 (best 0.749 @ep5) t=543s
+   ep13 val_balacc 0.725 (best 0.749 @ep5) t=576s
+Epoch 14: early stopping
+DONE B1_s2 582s

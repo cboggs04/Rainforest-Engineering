@@ -1,0 +1,12 @@
+                    B2_s0  B2_s1  B2_s2
+loud_bg              0.81   0.89   0.89
+loudbed_cs           0.93   0.89   0.82
+loudbed_cs cs->gs    0.01   0.01   0.02
+quiet_cs             0.80   0.77   0.86
+quiet_cs cs->gs      0.00   0.00   0.00
+quiet_gs             0.90   0.88   0.68
+quiet_neg            0.97   0.96   0.98
+replayed_cs          0.86   0.88   0.73
+replayed_cs cs->gs   0.02   0.00   0.00
+replayed_gs          0.88   0.80   0.89
+replayed_neg         0.88   0.90   0.93

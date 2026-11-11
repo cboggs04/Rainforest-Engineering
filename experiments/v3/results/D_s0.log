@@ -1,0 +1,10 @@
+train (6233, 128, 196, 3) [2877 1341 2015] replay-derived 600 107s
+   ep0 val_balacc 0.825 (best 0.825 @ep0) t=176s
+   ep1 val_balacc 0.827 (best 0.827 @ep1) t=220s
+   ep2 val_balacc 0.831 (best 0.831 @ep2) t=263s
+   ep3 val_balacc 0.838 (best 0.838 @ep3) t=306s
+   ep4 val_balacc 0.839 (best 0.839 @ep4) t=347s
+   ep5 val_balacc 0.838 (best 0.839 @ep4) t=387s
+   ep6 val_balacc 0.838 (best 0.839 @ep4) t=429s
+   ep7 val_balacc 0.839 (best 0.839 @ep7) t=473s
+DONE D 0 481s

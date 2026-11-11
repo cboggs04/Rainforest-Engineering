@@ -1,0 +1,72 @@
+mix train (3420, 128, 196, 3) [2160  630  630] val (690, 128, 196, 3) [360 165 165] 43s
+Epoch 1/60
+   val_balacc 0.666 (best 0.666 @ep0)
+107/107 - 42s - 392ms/step - accuracy: 0.5301 - loss: 0.8777 - val_accuracy: 0.6565 - val_loss: 0.9964 - val_balacc: 0.6657
+Epoch 2/60
+   val_balacc 0.621 (best 0.666 @ep0)
+107/107 - 26s - 246ms/step - accuracy: 0.7348 - loss: 0.5469 - val_accuracy: 0.6391 - val_loss: 1.1526 - val_balacc: 0.6206
+Epoch 3/60
+   val_balacc 0.685 (best 0.685 @ep2)
+107/107 - 28s - 260ms/step - accuracy: 0.8058 - loss: 0.4153 - val_accuracy: 0.6942 - val_loss: 0.8459 - val_balacc: 0.6854
+Epoch 4/60
+   val_balacc 0.693 (best 0.693 @ep3)
+107/107 - 28s - 257ms/step - accuracy: 0.8380 - loss: 0.3236 - val_accuracy: 0.7058 - val_loss: 0.9161 - val_balacc: 0.6928
+Epoch 5/60
+   val_balacc 0.677 (best 0.693 @ep3)
+107/107 - 28s - 264ms/step - accuracy: 0.9026 - loss: 0.2148 - val_accuracy: 0.7159 - val_loss: 0.9888 - val_balacc: 0.6774
+Epoch 6/60
+   val_balacc 0.722 (best 0.722 @ep5)
+107/107 - 28s - 265ms/step - accuracy: 0.9137 - loss: 0.1858 - val_accuracy: 0.7333 - val_loss: 0.9626 - val_balacc: 0.7224
+Epoch 7/60
+   val_balacc 0.703 (best 0.722 @ep5)
+107/107 - 26s - 245ms/step - accuracy: 0.9327 - loss: 0.1493 - val_accuracy: 0.7290 - val_loss: 0.9717 - val_balacc: 0.7032
+Epoch 8/60
+   val_balacc 0.690 (best 0.722 @ep5)
+107/107 - 27s - 248ms/step - accuracy: 0.9626 - loss: 0.0874 - val_accuracy: 0.7261 - val_loss: 1.2459 - val_balacc: 0.6904
+Epoch 9/60
+   val_balacc 0.705 (best 0.722 @ep5)
+107/107 - 27s - 256ms/step - accuracy: 0.9678 - loss: 0.0782 - val_accuracy: 0.7188 - val_loss: 1.1402 - val_balacc: 0.7055
+Epoch 10/60
+   val_balacc 0.722 (best 0.722 @ep5)
+107/107 - 26s - 240ms/step - accuracy: 0.9623 - loss: 0.0786 - val_accuracy: 0.7594 - val_loss: 1.4625 - val_balacc: 0.7215
+Epoch 11/60
+   val_balacc 0.729 (best 0.729 @ep10)
+107/107 - 27s - 250ms/step - accuracy: 0.9635 - loss: 0.0892 - val_accuracy: 0.7420 - val_loss: 1.2424 - val_balacc: 0.7290
+Epoch 12/60
+   val_balacc 0.683 (best 0.729 @ep10)
+107/107 - 26s - 246ms/step - accuracy: 0.9713 - loss: 0.0579 - val_accuracy: 0.7130 - val_loss: 1.4187 - val_balacc: 0.6832
+Epoch 13/60
+   val_balacc 0.683 (best 0.729 @ep10)
+107/107 - 24s - 228ms/step - accuracy: 0.9743 - loss: 0.0583 - val_accuracy: 0.6986 - val_loss: 1.7418 - val_balacc: 0.6827
+Epoch 14/60
+   val_balacc 0.675 (best 0.729 @ep10)
+107/107 - 23s - 213ms/step - accuracy: 0.9863 - loss: 0.0322 - val_accuracy: 0.7275 - val_loss: 1.6435 - val_balacc: 0.6749
+Epoch 15/60
+   val_balacc 0.703 (best 0.729 @ep10)
+107/107 - 23s - 213ms/step - accuracy: 0.9863 - loss: 0.0328 - val_accuracy: 0.7217 - val_loss: 1.5533 - val_balacc: 0.7029
+Epoch 16/60
+   val_balacc 0.682 (best 0.729 @ep10)
+107/107 - 26s - 243ms/step - accuracy: 0.9594 - loss: 0.0949 - val_accuracy: 0.7246 - val_loss: 1.7290 - val_balacc: 0.6818
+Epoch 17/60
+   val_balacc 0.715 (best 0.729 @ep10)
+107/107 - 24s - 227ms/step - accuracy: 0.9860 - loss: 0.0325 - val_accuracy: 0.7507 - val_loss: 1.4207 - val_balacc: 0.7149
+Epoch 18/60
+   val_balacc 0.721 (best 0.729 @ep10)
+107/107 - 25s - 229ms/step - accuracy: 0.9974 - loss: 0.0089 - val_accuracy: 0.7638 - val_loss: 1.5238 - val_balacc: 0.7210
+Epoch 19/60
+   val_balacc 0.721 (best 0.729 @ep10)
+107/107 - 23s - 217ms/step - accuracy: 0.9991 - loss: 0.0022 - val_accuracy: 0.7652 - val_loss: 1.5292 - val_balacc: 0.7209
+Epoch 20/60
+   val_balacc 0.712 (best 0.729 @ep10)
+107/107 - 22s - 206ms/step - accuracy: 0.9988 - loss: 0.0072 - val_accuracy: 0.7594 - val_loss: 1.5018 - val_balacc: 0.7117
+Epoch 21/60
+   val_balacc 0.720 (best 0.729 @ep10)
+107/107 - 23s - 213ms/step - accuracy: 0.9997 - loss: 6.6135e-04 - val_accuracy: 0.7638 - val_loss: 1.5475 - val_balacc: 0.7199
+Epoch 22/60
+   val_balacc 0.722 (best 0.729 @ep10)
+107/107 - 26s - 247ms/step - accuracy: 1.0000 - loss: 2.8173e-04 - val_accuracy: 0.7652 - val_loss: 1.5893 - val_balacc: 0.7220
+Epoch 23/60
+   val_balacc 0.721 (best 0.729 @ep10)
+107/107 - 26s - 244ms/step - accuracy: 1.0000 - loss: 2.0661e-04 - val_accuracy: 0.7638 - val_loss: 1.6216 - val_balacc: 0.7210
+Epoch 23: early stopping
+DONE mix 655s
